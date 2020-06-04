@@ -1,3 +1,4 @@
 Do conflicts happen frequently? Or do teams split tasks in ways that they avoid as much as possible merging?
 What is life?
 What else?
+let's make one more commit
